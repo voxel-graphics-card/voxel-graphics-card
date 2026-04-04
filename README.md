@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/myrachane/myrachane/main/assets/kodin.gif" width="900" height="350"/>
+</p>
+
 # About Me:
 Hey I'm Debargha Bose(a.k.a BoseFlux)
 I’m currently working on a C++ based game engine.<br>I’m looking to collaborate on C/C++, Kotlin and java based projects.<br>I’m looking for help with adding features in my game engine.<br>I’m currently learning C++.
