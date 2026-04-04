@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/voxel-graphics-card/voxel-graphics-card/main/assets/real_me.gif" width="800" alt="banner" />
 
-```
+<pre>
 dark@dev:~$ whoami
 > Debargha Bose  |  aka BoseFlux  |  aka Darkness
 
 dark@dev:~$ uname -a
 > Arch Linux  |  IT Student  |  Game Engine Dev  |  Low-level Enthusiast
-```
+</pre>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/darkness_vn)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Alone_Secret_2047)
@@ -98,9 +98,9 @@ I build things from scratch -- close to the metal, far from abstractions. Curren
 
 <div align="center">
 
-```
+<pre>
 I use Arch, btw.
-```
+</pre>
 
 *If you made it this far, you might as well hit follow.*
 
