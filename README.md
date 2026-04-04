@@ -1,23 +1,116 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/myrachane/myrachane/main/assets/kodin.gif" width="900" height="350"/>
-</p>
+<div align="center">
 
-# About Me:
-Hey I'm Debargha Bose(a.k.a BoseFlux)
-I’m currently working on a C++ based game engine.<br>I’m looking to collaborate on C/C++, Kotlin and java based projects.<br>I’m looking for help with adding features in my game engine.<br>I’m currently learning C++.
+<pre>
+██████╗  ██████╗ ███████╗███████╗███████╗██╗     ██╗   ██╗██╗  ██╗
+██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔════╝██║     ██║   ██║╚██╗██╔╝
+██████╔╝██║   ██║███████╗█████╗  █████╗  ██║     ██║   ██║ ╚███╔╝ 
+██╔══██╗██║   ██║╚════██║██╔══╝  ██╔══╝  ██║     ██║   ██║ ██╔██╗ 
+██████╔╝╚██████╔╝███████║███████╗██║     ███████╗╚██████╔╝██╔╝ ██╗
+╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+</pre>
 
+<img src="https://raw.githubusercontent.com/voxel-graphics-card/voxel-graphics-card/main/assets/real_me.gif" width="800" alt="banner" />
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darkness_vn) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Alone_Secret_2047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarghabose2005@gmail.com) 
+```
+dark@dev:~$ whoami
+> Debargha Bose  |  aka BoseFlux  |  aka Darkness
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+dark@dev:~$ uname -a
+> Arch Linux  |  IT Student  |  Game Engine Dev  |  Low-level Enthusiast
+```
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/darkness_vn)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Alone_Secret_2047)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarghabose2005@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=voxel-graphics-card&style=for-the-badge&color=red)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=voxel-graphics-card&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=voxel-graphics-card&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## `> cat about.txt`
+
+I build things from scratch -- close to the metal, far from abstractions. Currently deep in the weeds of a **custom C++ game engine** with OpenGL rendering, and a **C++ builder** to go with it. I care about how things work under the hood: memory, pipelines, render loops.
+
+> Open to collaborating on **C / C++ | Kotlin | Java** projects.
+> If you are working on engine internals, graphics, or low-level systems -- lets talk.
+
+---
+
+## `> ls skills/`
+
+<table border="1" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**Languages**
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c" width="45"/><br>`C` | <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>`C++` | <img src="https://skillicons.dev/icons?i=python" width="45"/><br>`Python` | <img src="https://skillicons.dev/icons?i=html" width="45"/><br>`HTML5` | <img src="https://skillicons.dev/icons?i=js" width="45"/><br>`JS` |
+
+**Tools & Graphics**
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width="45"/><br>`OpenGL` | <img src="https://skillicons.dev/icons?i=cmake" width="45"/><br>`CMake` | <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>`MySQL` | <img src="https://skillicons.dev/icons?i=arch" width="45"/><br>`Arch` |
+
+</td>
+<td width="45%" valign="top">
+
+**`> cat status.json`**
+
+```json
+{
+  "name": "Darkness",
+  "role": "Developer",
+  "study": "Information Technology",
+  "focus": "Game Engine Dev",
+  "status": "Exploring",
+  "currently": [
+    "Building a C++ game engine",
+    "Writing a C++ builder",
+    "Watering the plants"
+  ],
+  "arch_user": true
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat projects/`
+
+| Project | Stack | Status | Description |
+|---------|-------|--------|-------------|
+| **C++ Game Engine** | `C++` `OpenGL` `CMake` | Active | Custom engine with OpenGL renderer -- built from zero |
+| **C++ Builder** | `C++` | Active | Build tooling for C++ projects |
+
+> More projects coming. Watch this space.
+
+---
+
+## `> ./stats`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=voxel-graphics-card&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voxel-graphics-card&theme=github-dark&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+I use Arch, btw.
+```
+
+*If you made it this far, you might as well hit follow.*
+
+</div>
