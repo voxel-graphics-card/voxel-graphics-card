@@ -90,8 +90,6 @@ I build things from scratch -- close to the metal, far from abstractions. Curren
 
 <img src="https://streak-stats.demolab.com?user=voxel-graphics-card&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=voxel-graphics-card&theme=github-dark&hide_border=true" width="95%"/>
-
 </div>
 
 ---
